@@ -111,4 +111,4 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
 ## Aditional Information
 - 🔭 I’m currently working on Data Science Projects 
 - 🌱 I’m currently learning Machine Learning Algorithims 
-- 📫 How to reach me: josemanuelmartinez2002@gmail.com  
+- 📫 How to reach me: jmartinezalpanez@outlook.com  
