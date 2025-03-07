@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
     </td>
     <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
       <a href="https://github.com/josem17-cyber/Practica_Final_Machine_Learning_JMM">
-        <img src="images/YOUTUBE 1280x720.png" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="images/youtube logo.png" style="width: 100%; height: 100%; object-fit: cover;">
       </a>
       <p>Youtube Trending Videos</p>
     </td>
