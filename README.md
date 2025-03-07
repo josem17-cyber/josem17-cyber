@@ -43,6 +43,30 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
 >
 > **Critical Thinking:** Strong problem-solving skills and the ability to approach complex issues with analytical rigor.
 
+## My Relevant Projects 🚀
+<!-- Tabla con celdas divididas en 3 partes iguales -->
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
+      <a href="https://github.com/joselitom17/My_First_EDA_Titanic">
+        <img src="images/HIDRAL (1280 x 720 px).png" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <p>Automatization of Tasks</p>
+    </td>
+    <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
+      <a href="https://github.com/joselitom17/HIDRAL_Project">
+        <img src="images/YOUTUBE 1280x720.png" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <p>Youtube Trending Videos</p>
+    </td>
+    <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
+      <a href="https://github.com/joselitom17/Lineal_Regression_Project">
+        <img src="images/USA_Houses_California_Night_San_Diego_590554_1280x720.jpg" alt="California Housing Predictor" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <p>California Housing Predictor</p>
+    </td>
+  </tr>
+</table>
 
 ## Aditional Information
 - 🔭 I’m currently working on Data Science Projects 
