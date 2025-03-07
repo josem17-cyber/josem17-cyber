@@ -48,19 +48,19 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
-      <a href="https://github.com/joselitom17/My_First_EDA_Titanic">
+      <a href="https://github.com/josem17-cyber/Task_Classification_Automation">
         <img src="images/HIDRAL (1280 x 720 px).png" style="width: 100%; height: 100%; object-fit: cover;">
       </a>
       <p>Automatization of Tasks</p>
     </td>
     <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
-      <a href="https://github.com/joselitom17/HIDRAL_Project">
+      <a href="https://github.com/josem17-cyber/Practica_Final_Machine_Learning_JMM">
         <img src="images/YOUTUBE 1280x720.png" style="width: 100%; height: 100%; object-fit: cover;">
       </a>
       <p>Youtube Trending Videos</p>
     </td>
     <td style="width: 33.33%; height: 720px; overflow: hidden; text-align: center;">
-      <a href="https://github.com/joselitom17/Lineal_Regression_Project">
+      <a href="https://github.com/josem17-cyber/Lineal_Regression_Project">
         <img src="images/USA_Houses_California_Night_San_Diego_590554_1280x720.jpg" alt="California Housing Predictor" style="width: 100%; height: 100%; object-fit: cover;">
       </a>
       <p>California Housing Predictor</p>
